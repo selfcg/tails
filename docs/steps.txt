@@ -1,0 +1,3 @@
+1. Create React App
+2. Cleared all files form /public and /src
+3. npm i react-router-dom --save

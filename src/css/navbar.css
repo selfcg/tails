@@ -1,0 +1,40 @@
+
+
+body {
+	margin: 0;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background: linear-gradient(118.09deg, #1E1E1E -115.18%, #434343 392.88%);
+}
+
+li {
+	float: left;
+	
+}
+
+
+li a {
+	font-family: 'Jaldi';
+	font-size: 20px;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 20px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
+
+@font-face {
+	font-family: 'Jaldi';
+	src: url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+}
+
